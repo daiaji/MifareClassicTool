@@ -81,3 +81,4 @@ This app **has been known to work** on the following devices.
 * Sony Xperia V
 * Xiaomi Mi 5
 * Yota Phone (YD201, YD206)
+* Motorola Moto X (2013,1st gen.)
